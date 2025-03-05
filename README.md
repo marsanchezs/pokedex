@@ -6,11 +6,11 @@ Si la aplicación no tiene conexión a internet, muestra una lista basada en bú
 
 ## 📱 Capturas de Pantalla
 
-![Lista de Pokemones](images/poke1.png)
-![Detalle de pokemon](images/poke2.png)
-![Compartir](images/poke3.png)
-![Favoritos](images/poke4.png)
-![Error](images/poke5.png)
+![Lista de Pokemones](images/poke1.jpg)
+![Detalle de pokemon](images/poke2.jpg)
+![Compartir](images/poke3.jpg)
+![Favoritos](images/poke4.jpg)
+![Error](images/poke5.jpg)
 
 ## 🛠️ Tecnologías utilizadas
 
