@@ -44,8 +44,7 @@ fun PokemonDetailContent(
     ) {
         PokemonDetailCarousel(
             pagerState = pagerState,
-            sprites = sprites,
-            currentPage = pagerState.currentPage
+            sprites = sprites
         )
 
         Spacer(modifier = Modifier.height(16.dp))

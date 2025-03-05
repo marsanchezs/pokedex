@@ -13,8 +13,7 @@ import com.google.accompanist.pager.PagerState
 @Composable
 fun PokemonDetailCarousel(
     pagerState: PagerState,
-    sprites: SpriteImages,
-    currentPage: Int
+    sprites: SpriteImages
 ){
     PokemonDetailCarouselPager(
         pagerState = pagerState,

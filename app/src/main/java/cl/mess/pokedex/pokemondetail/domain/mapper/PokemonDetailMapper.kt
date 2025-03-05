@@ -53,7 +53,7 @@ class PokemonDetailMapper @Inject constructor() {
     )
 
     fun PokemonDetail.toFavoritePokemon() = FavoritePokemon(
-        name = name.orEmpty(),
+        name = name,
         frontImageUrl = sprites.frontDefault
     )
 }
